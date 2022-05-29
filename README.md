@@ -3,6 +3,8 @@ Steps to run the project:
 1) connect to a database using MySQL workbench, create table 
 
 ![image](https://user-images.githubusercontent.com/79753464/170882251-f4d78f58-958c-408e-b47a-8f977f6073ca.png)
+![image](https://user-images.githubusercontent.com/79753464/170882510-8d1f3de0-c674-45be-a6af-eac88b3fdaf9.png)
+
 
 2) run main.py on vscode
 3) Go to student details, add details, click take photo sample radio button and click save
