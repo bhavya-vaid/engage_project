@@ -1,4 +1,5 @@
 # engage_project
+made using: Python OpenCV
 Steps to run the project:
 1) connect to a database using MySQL workbench, create table 
 
